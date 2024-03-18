@@ -1,4 +1,4 @@
-## Hello, my name is Sihem 👋🏽
+## Hey, I'm Sihem 👋🏽
 
 I am a 19 year-old fullstack developer residing in France, deeply passionate about the realms of coding, programming, and design.
 
