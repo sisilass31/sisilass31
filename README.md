@@ -1,6 +1,6 @@
-## Bonjour, je m'appelle Sihem 👋🏽
+## Hello, my name is Sihem 👋🏽
 
-J'ai 20 ans et je suis developpeuse fullstack, et Je suis passionnée par le codage, la programmation et le design.
+I am a 19 year-old fullstack developer residing in France, deeply passionate about the realms of coding, programming, and design.
 
 ## Toolbox
 
@@ -12,7 +12,7 @@ Testing: `Postman`
 
 Design: `Figma`
 
-## Contact
+## Connect with me  
 <a href="https://github.com/sisilass31" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
