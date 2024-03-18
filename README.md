@@ -2,7 +2,7 @@
 
 J'ai 20 ans et je suis developpeuse fullstack, et Je suis passionnée par le codage, la programmation et le design.
 
-### Toolbox
+### Compétences
 
 Frontend: `React` `HTML` `CSS`
 
