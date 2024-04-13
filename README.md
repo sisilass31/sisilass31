@@ -1,12 +1,12 @@
 ## Hey, I'm Sihem 👋🏽
 
-I am a 19 year-old fullstack developer residing in France, deeply passionate about the realms of coding, programming, and design.
+I am a 19 year-old, deeply passionate about the realms of coding, programming, and design.
 
 ## Toolbox
 
-Frontend: `React` `HTML` `CSS`
+Frontend: `HTML` `CSS` `≈ React`
 
-Backend: `Mysql` `Node` `Js` `Sequelize`
+Backend: `≈ Mysql` `≈ Node` `≈ Js` `≈ Sequelize`
 
 Testing: `Postman`
 
