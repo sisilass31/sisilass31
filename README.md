@@ -1,6 +1,6 @@
 ## Hey, I'm Sihem 👋🏽
 
-I am a 20 year-old, deeply passionate about the realms of coding, programming, and design.
+I am a 20 year-old, deeply passionate about the realms of coding, programming, and design.💻
 
 ## Toolbox
 
