@@ -6,9 +6,7 @@ I am a 20 year-old, deeply passionate about the realms of coding, programming, a
 
 Frontend: `HTML` `CSS` `≈ React`
 
-Backend: `≈ Mysql` `≈ Node` `≈ Js` `≈ Sequelize`
-
-Testing: `Postman`
+Backend: `≈ Mysql` `≈ Node` `≈ Js` `≈ Sequelize` `Postman`
 
 Design: `Figma`
 
