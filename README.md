@@ -1,6 +1,6 @@
-## Hey, I'm Sihem 👋🏽
+## Salut, je suis Sihem 👋🏽
 
-I am a 20 year-old, deeply passionate about the realms of coding, programming, and design 💻
+J'ai 20 ans et je suis profondément passionné par les domaines du codage, de la programmation et du design 💻
 
 ## Toolbox
 
@@ -8,7 +8,7 @@ Frontend: `HTML` `CSS` `≈ React`
 
 Backend: `≈ Mysql` `≈ Node` `≈ Js` `≈ Sequelize` `Postman`
 
-Design: `Figma`
+Design: `Figma` `Adobe After Effects`
 
 Frameworks: `Bootstrap` `≈ Material UI`
 
