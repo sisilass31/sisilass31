@@ -12,6 +12,6 @@ Design: `Figma` `Adobe After Effects`
 
 Frameworks: `Bootstrap` `≈ Material UI`
 
-### Connectez-vous avec moi 
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)]([https://katherineoelsner.com/](https://sisilass31.github.io/))
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/](https://github.com/sisilass31))
+### Connectez-vous avec moi
+[![Portfolio](https://img.shields.io/badge/Mon_Portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://sisilass31.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sisilass31/)
