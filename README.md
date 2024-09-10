@@ -4,13 +4,13 @@ J'ai 20 ans et je suis profondément passionné par les domaines du codage, de l
 
 ### Toolbox
 
-Frontend: `HTML` `CSS` `≈ React`
+Frontend: `HTML` `CSS` `React`
 
-Backend: `≈ Mysql` `≈ Node` `≈ Js` `≈ Sequelize` `Postman`
+Backend: `Mysql` `Node` `JavaScript` `Java` `Sequelize` `Postman`
 
 Design: `Figma` `Adobe After Effects`
 
-Frameworks: `Bootstrap` `≈ Material UI`
+Frameworks: `Bootstrap` `Material UI`
 
 ### Connectez-vous avec moi
 [![Portfolio](https://img.shields.io/badge/Mon_Portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://sisilass31.github.io/)
