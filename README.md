@@ -4,7 +4,7 @@ J'ai 20 ans et je suis profondément passionné par les domaines du codage, de l
 
 ### Toolbox
 
-Frontend: `HTML` `CSS` `React`
+Frontend: `HTML` `CSS` `React` `EJS`
 
 Backend: `Mysql` `Node` `JavaScript` `Java` `Sequelize` `Postman`
 
