@@ -6,7 +6,7 @@ J'ai 20 ans et je suis profondément passionné par les domaines du codage, de l
 
 Frontend: `HTML` `CSS` `React` `EJS`
 
-Backend: `Mysql` `Node` `JavaScript` `Java` `Sequelize` `Postman`
+Backend: `Mysql` `Node` `JavaScript` `Java` `Postman`
 
 Design: `Figma` `Adobe After Effects`
 
