@@ -1,6 +1,6 @@
 ## Salut, je suis Sihem 👋🏽
 
-J'ai 20 ans et je suis profondément passionné par les domaines du codage, de la programmation et du design 💻
+J'ai 20 ans et je suis profondément passionnée par les domaines du codage, de la programmation et du design 💻
 
 ### Toolbox
 
