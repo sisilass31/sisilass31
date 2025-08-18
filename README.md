@@ -1,18 +1,18 @@
 ## Salut, je suis Sihem 👋🏽
 
-J'ai 20 ans et je suis profondément passionnée par les domaines du codage, de la programmation et du design 💻
+J'ai 21 ans et je suis profondément passionnée par les domaines du codage, de la programmation et du design 💻
 
 ### Toolbox
 
-Frontend: `HTML` `CSS` `React` `EJS`
+Frontend: `HTML` `CSS` `JavaScript` `EJS`
 
-Backend: `Mysql` `Node` `JavaScript` `Java` `Postman`
+Backend: `Mysql` `NodeJS` `Java` `Postman`
 
 Design: `Figma` `Adobe After Effects`
 
 Frameworks: `Bootstrap` `Material UI`
 
-Environnement: `VSCode` `Trello` `Miro`
+Environnement: `VSCode` `Trello` `Miro` `Notion` `macOS`
 
 ### Connectez-vous avec moi
 [![Portfolio](https://img.shields.io/badge/Mon_Portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://sisilass31.github.io/)
