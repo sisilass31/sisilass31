@@ -4,15 +4,15 @@ J'ai 21 ans et je suis profondément passionnée par les domaines du codage, de 
 
 ### Toolbox
 
-Frontend: `HTML` `CSS` `JavaScript` `EJS`
+Frontend: `HTML` `CSS` `JavaScript`
 
-Backend: `Mysql` `NodeJS` `Java` `Postman`
-
-Design: `Figma` `Adobe After Effects`
+Backend: `MySQL` `NodeJS` `Java` 
 
 Frameworks: `Bootstrap` `Material UI`
 
-Environnement: `VSCode` `Trello` `Miro` `Notion` `macOS`
+Design: `Figma` `Adobe After Effects` `Canva`
+
+Environnement: `VSCode` `Eclipse` `Postman` `Trello` `Miro` `Notion` `macOS`
 
 ### Connectez-vous avec moi
 [![Portfolio](https://img.shields.io/badge/Mon_Portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://sisilass31.github.io/)
